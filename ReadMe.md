@@ -4,5 +4,6 @@ A fast approach of this work can be found in another repository "Dehazing via Gr
 Run 'main.m'.
 *************************************************************
 Examples:
-a screen shot of the paper
+several screenshots of the paper
 ![image](https://github.com/Lilin2015/Single-Image-Dehazing-based-on-Dark-Channel-Prior-and-Energy-Minimization/raw/master/display/display.png)
+![image](https://github.com/Lilin2015/Single-Image-Dehazing-based-on-Dark-Channel-Prior-and-Energy-Minimization/raw/master/display/display2.png)
